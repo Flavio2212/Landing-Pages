@@ -1,0 +1,64 @@
+body{
+    background-image: url(/Tarea/img/fondo.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center ;
+    font-weight: bold;
+    font-size: 40px;
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    margin-left: 40px;
+    text-align: center;}
+.contenedor1{
+    margin-left: 68px;
+    margin-right:50px ;
+    padding-bottom: 90px;
+    padding-top: 10px;
+    float:left;
+}
+.cuadros{
+    font-size: 30px;
+    margin-left: 40px;
+    width: 450px;
+    height: 40px;
+    
+}
+select{
+    width: 458px;
+    height: 40px;
+    margin-left: 40px;
+    font-size: 25px;
+}
+textarea{
+    font-size: 12px;
+    margin-left: 40px;
+    width: 455px;
+    height: 80px;
+}
+::placeholder{
+    font-size: 25px;
+}
+.envio{
+    width: 458px;
+    margin-left: 40px;
+    font-size: 27px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    background-color: rgb(30, 255, 0);
+}
+.contenedor2{
+    float: right;
+
+}
+.imagen{
+    margin-right: 70px;
+    width: 560px;
+    height: 380px;
+    margin-top: 50px;
+}

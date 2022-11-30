@@ -1,0 +1,232 @@
+/*
+	@name index
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1366px; width: 1366px; height: 768px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__index {
+	top: 0px;
+	left: 0px;
+	width: 1366px;
+	height: 768px;
+	background:rgba(197,255,244,1);
+}
+
+
+#como_crear_un_landing_pages_que_convierten {
+	top: 49px;
+	left: 49px;
+	width: 1378px;
+	height: 138px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 56px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#descubre_las_mejores_pr_cticas_para_hacer_landing_pages_y_convertir_m_s_visitantes_en_oportunidades_de_negocio_ {
+	top: 148px;
+	left: 66px;
+	width: 1317px;
+	height: 102px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 28px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_2 {
+	top: 230px;
+	left: 66px;
+	width: 474px;
+	height: 45px;
+}
+
+#nombre_completo_ {
+	top: 0px;
+	left: 18px;
+	width: 259.5px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: left;
+	color:#716969;
+}
+
+#frame_7 {
+	top: 552px;
+	left: 66px;
+	width: 474px;
+	height: 45px;
+}
+
+#sitio_web_de_empresa_ {
+	top: 0px;
+	left: 18px;
+	width: 298.5px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: left;
+	color:#716969;
+}
+
+#frame_8 {
+	top: 615px;
+	left: 66px;
+	width: 514px;
+	height: 45px;
+}
+
+#descargar_ebook {
+	top: 0px;
+	left: 14px;
+	width: 419px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+#frame_3 {
+	top: 295px;
+	left: 66px;
+	width: 474px;
+	height: 45px;
+}
+
+#email_ {
+	top: 0px;
+	left: 18px;
+	width: 106.5px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: left;
+	color:#716969;
+}
+
+#frame_4 {
+	top: 361px;
+	left: 66px;
+	width: 474px;
+	height: 45px;
+}
+
+#cargo_posici_n {
+	top: 0px;
+	left: 18px;
+	width: 219.5px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#chevron_down {
+	top: 358px;
+	left: 473px;
+	width: 67px;
+	height: 47px;
+}
+
+#vector {
+	top: 17px;
+	left: 24px;
+	width: 32px;
+	height: 14px;
+}
+
+#frame_5 {
+	top: 426px;
+	left: 66px;
+	width: 474px;
+	height: 45px;
+}
+
+#area_en_la_que_actua_la_empresa {
+	top: 0px;
+	left: 18px;
+	width: 431.5px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#chevron_down_ek1 {
+	top: 426px;
+	left: 472px;
+	width: 67px;
+	height: 47px;
+}
+
+#vector_ek1 {
+	top: 17px;
+	left: 24px;
+	width: 32px;
+	height: 14px;
+}
+
+#frame_6 {
+	top: 489px;
+	left: 66px;
+	width: 474px;
+	height: 45px;
+}
+
+#n_mero_de_empleados {
+	top: 0px;
+	left: 18px;
+	width: 367.5px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#chevron_down_ek2 {
+	top: 489px;
+	left: 472px;
+	width: 67px;
+	height: 47px;
+}
+
+#vector_ek2 {
+	top: 17px;
+	left: 24px;
+	width: 32px;
+	height: 14px;
+}
+
+
+
+
+/* Add your custom CSS here */
